@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n0n3br/react-use-indexeddb.git"
+    "url": "git+https://github.com/rogeriolaa/react-use-indexeddb.git"
   },
   "keywords": [
     "react",
@@ -34,9 +34,9 @@
   "author": "Rogério Amorim <rogeriol@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/n0n3br/react-use-indexeddb/issues"
+    "url": "https://github.com/rogeriolaa/react-use-indexeddb/issues"
   },
-  "homepage": "https://github.com/n0n3br/react-use-indexeddb#readme",
+  "homepage": "https://github.com/rogeriolaa/react-use-indexeddb#readme",
   "peerDependencies": {
     "react": ">=16.8.0"
   },
